@@ -1,0 +1,38 @@
+
+.navbar {
+    background-color: rgb(22, 199, 22);
+}
+.objetivos {
+    background-color: rgb(236, 223, 223);
+    padding-bottom: 200px;
+    padding-top: 100px;
+}
+
+
+.margin {
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+
+.iema {
+    position: 10px;
+}
+
+.problemas {
+    padding-bottom: 15px;
+    background-color: rgb(236, 223, 223);
+}
+
+.curiosidades {
+    background-color: rgb(236, 223, 223);
+    
+}
+
+.dia-mundial-do-meio-ambiente {
+    color: blue;
+    background-color: rgb(236, 223, 223);
+}
+
+.desenvolvido-por-caua-veloso {
+    background-color: rgb(236, 223, 223);
+}
